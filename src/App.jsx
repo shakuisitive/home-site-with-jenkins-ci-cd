@@ -11,7 +11,7 @@ function App() {
           </div>
           <ul className="nav-menu">
             <li>
-              <a href="#home">Home</a>
+              <a href="#home">Home - cloudclass</a>
             </li>
             <li>
               <a href="#services">back to working! - Services</a>
